@@ -70,6 +70,6 @@ Dan juga parameter yang lain dapat dilihat sebagai berikut:
 | -- | -- | -- | -- |
 | [Jankenpon-CV](https://github.com/Otniel113/Jankenpon-CV) | MLP tanpa ekstraksi fitur | 0.642 | 0.342 |
 | [Jankenpon-CV2](https://github.com/Otniel113/Jankenpon-CV2) | MLP dengan HOG | 0.948 | 0.965 |
-| [Jankenpon-CV3](https://github.com/Otniel113/Jankenpon-CV3) | CNN1 | 0.981 | 0.917 |
-| [Jankenpon-CV3](https://github.com/Otniel113/Jankenpon-CV3) | CNN2 | 0.991 | 0.956 |
-| [Jankenpon-CV3](https://github.com/Otniel113/Jankenpon-CV3) | CNN3 | <b>0.994</b> | <b>0.972</b> |
+| [Jankenpon-CV3](https://github.com/Otniel113/Jankenpon-CV3) | CNN1 | 0.984 | 0.933 |
+| [Jankenpon-CV3](https://github.com/Otniel113/Jankenpon-CV3) | CNN2 | 0.968 | 0.938 |
+| [Jankenpon-CV3](https://github.com/Otniel113/Jankenpon-CV3) | CNN3 | <b>0.996</b> | <b>0.970</b> |
